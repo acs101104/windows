@@ -1,0 +1,7 @@
+{
+    "guid": "{41dd7a51-f0e1-4420-a2ec-1a7130b7e950}",
+    "name": "Windows PowerShell Elevated",
+    "commandline": "gsudo.exe powershell.exe",
+    "hidden": false,
+    "icon" : "https://i.imgur.com/kZeD6EN.png"
+}
